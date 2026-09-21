@@ -276,7 +276,7 @@ def send_message():
                     </div>
                     <div class="logo facebook">
                         <span>Facebook:</span>
-                        <a href="https://www.facebook.com/sym.ly.78919" style="color:#1877F2;">sym.ly.78919</a>
+                        <a href="https://www.facebook.com/profile.php?id=61594123571393" style="color:#1877F2;">sym.ly.78919</a>
                     </div>
                 </div>
             </footer>
